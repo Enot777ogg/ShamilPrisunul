@@ -1,2 +1,0 @@
-# ShamilPrisunul
-Тестовый бомбер 
