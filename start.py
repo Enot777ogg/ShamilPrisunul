@@ -9,4 +9,4 @@ for _ in range(count):
     thread = Bomber(iteration)
     thread.start()
 print("ALL PROCESSES WERE STARTED")
-© 2020 GitHub, Inc.
+
